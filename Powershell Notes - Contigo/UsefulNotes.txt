@@ -1,0 +1,2 @@
+Calendar permissions:
+https://thomasmitchell.net/managing-calendar-permissions-in-o365-with-powershell/#:~:text=To%20list%20the%20permissions%20on,Online%20(see%20instructions%20above).&text=Replace%20filepath%20with%20the%20path,to%20give%20the%20CSV%20file.
